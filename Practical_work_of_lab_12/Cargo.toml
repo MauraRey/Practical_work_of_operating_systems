@@ -1,0 +1,8 @@
+[package]
+name = "Practical_work_of_lab_12"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+rand = "0.8"
+
