@@ -1,1 +1,0 @@
-F:\Practical_work_of_operating_systems\Practical_work_of_romb4\target\debug\Practical_work_of_romb4.exe: F:\Practical_work_of_operating_systems\Practical_work_of_romb4\src\main.rs
